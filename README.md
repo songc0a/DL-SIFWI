@@ -1,5 +1,5 @@
 # DL-SIFWI
-This repository gives the codes for "Physics-constrained deep-learning source-independent full-waveform inversion". The related paper has been submitted to IEEE TGRS. We will release the codes after acceptance or as required by the journal.
+This repository gives the codes for "Physics-constrained deep-learning-based full-waveform inversion: A practical source-independent strategy with two real data applications". The related paper has been accepted for publication in IEEE TGRS. 
 
 # Usage Instructions
 **Run the Test File `Acoustic_SI_IFWI_deepwave_mar_openfwi.ipynb`**
