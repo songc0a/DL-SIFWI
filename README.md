@@ -21,6 +21,10 @@ If you find our codes useful, please kindly cite this article.
   author={Song, Chao and Alkhalifah, Tariq, and Waheed, Umair bin and Wang, Silin and Liu, Cai},
   
   journal={IEEE Transactions on Geoscience and Remote Sensing},
+
+  volume={64},
+
+  pages={5903813},
   
   year={2026}
 }
