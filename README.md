@@ -14,7 +14,7 @@ This study proposes a deep-learning-based source-independent FWI method. It uses
 # Cite information
 If you find our codes useful, please kindly cite this article.
 
-@article{liu2025fast,
+@article{Song2026,
 
   title={Physics-constrained deep-learning-based full-waveform inversion: A practical source-independent strategy with two real data applications},
   
